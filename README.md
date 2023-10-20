@@ -12,7 +12,8 @@ State Population Totals and Components of Change (2020-2022): https://www.census
 
 Each row represents a time period (months/years) when deaths occured and tells us whether those deaths were from COVID-19, Influenza, Pneumonia, or any other reason.
 
-Date As of: Date data was collected/n
+Date As of: Date data was collected
+
 Start Date: Date data collection for the row started
 
 End Date: Date Data collection for the row ended
