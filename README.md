@@ -27,3 +27,16 @@ Pneumonia and Covid-19 Deaths
 Influenza Deaths
 Pneumonia, Influenza and COVID-19 Deaths
 Footnotes
+
+
+In this project, we are:
+Analyzing the total number of deaths per state in US categorized by year.
+Evaluating and determining the trend of COVID-19, Influenza and Pneumonia deaths against the total number of deaths.
+Determining how COVID-19 deaths are distributed amoung different age groups and which age group is more susceptible to COVID-19 more than others thereby highlighting those in need of special care and attention.
+Comparing the COVID-19 deaths with deaths due to other conditions alongside COVID-19 for each given year.
+Comparing the COVID-19 Deaths by Sex for each year.
+Basic Information
+Dataset has
+
+16 Columns
+133700 Rows
